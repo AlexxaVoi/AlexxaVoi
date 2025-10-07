@@ -1,16 +1,31 @@
-## Hi there 👋
 
-<!--
-**AlexxaVoi/AlexxaVoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# [Beaty zone](https://github.com/)
+<p align="left"> <a href="#"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
+</p>
+<p>Take-home project that I made while taking the courses "Genius".</p>
 
-Here are some ideas to get you started:
+Hard skills used:
+* HTML/CSS
+* JavaScript
+* Sass
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<img src="" width="230" title="Beaty zone">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+# [Later...](https://github.com/)
+<p align="left"> <a href="https://github.com/skovalysh/GitHubProfiles"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
+</p>
+<p>Home-based work with a designer.</p>
+Hard skills used:
+
+<p align="center">
+<img src="#" width="230"  title="GitHub Profiles">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+## Thanks for stopping by!
+
+# Contact Info:
+
+- Email: voinovasasa1@gmail.com
+- LinkedIn: [decodealex](www.linkedin.com/in/olexandra-voinova)
