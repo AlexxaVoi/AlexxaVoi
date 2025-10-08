@@ -10,7 +10,7 @@ Hard skills used:
 * Sass
 
 <p align="center">
-<img src="" width="230" title="Beaty zone">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/AlexxaVoi/AlexxaVoi/blob/main/BZ-desktop.jpg" width="230" title="Beaty zone">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/AlexxaVoi/AlexxaVoi/blob/main/BZ-GIFmobile.gif" width="230" title="Beaty zone">
 </p>
 
 # [Later...](https://github.com/)
