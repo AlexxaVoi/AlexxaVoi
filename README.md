@@ -1,6 +1,6 @@
 
-# [Beaty zone](https://github.com/)
-<p align="left"> <a href="#"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
+# [Beaty zone](https://github.com/AlexxaVoi/Beauty-zone)
+<p align="left"> <a href="https://github.com/AlexxaVoi/Beauty-zone"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
 </p>
 <p>Take-home project that I made while taking the courses "Genius".</p>
 
