@@ -1,4 +1,4 @@
-[Відкрити моє CV (PDF)](https://github.com/AlexxaVoi/AlexxaVoi/blob/main/CV_FrontEndVoinova.pdf)
+[View my CV (PDF)](https://github.com/AlexxaVoi/AlexxaVoi/blob/main/CV_FrontEndVoinova.pdf)
 
 
 # [Beaty zone](https://github.com/AlexxaVoi/Beauty-zone)
